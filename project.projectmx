@@ -9,5 +9,8 @@
       "url": "https://ganchyas.web.app/",
       "type": "Web"
     }
+  ],
+  "ignored_paths": [
+    "/Others/FCM/ganchyas-firebase-adminsdk-hrset-7cc70f9e2b.json"
   ]
 }
